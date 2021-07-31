@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+//npm install @angular/cdk
+//ng add @angular/material
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
